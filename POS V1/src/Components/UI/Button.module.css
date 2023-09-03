@@ -1,0 +1,17 @@
+.btn {
+  border: none;
+  outline: none;
+  padding: 0.8rem 0;
+  cursor: pointer;
+}
+.search-btn {
+  width: 3.2rem;
+  border-radius: 0.9rem;
+  font-size: 1.6rem;
+  color: var(--light-blue);
+}
+.newItem-btn {
+  padding: 1.2rem 3.2rem;
+  border-radius: 0.9rem;
+  color: var(--light-blue);
+}
